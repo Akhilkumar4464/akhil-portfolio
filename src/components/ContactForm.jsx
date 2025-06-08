@@ -2,7 +2,7 @@
  
  function ContactForm() {
    return (
-     <div className='md:h-screen w-full h-full md:w-screen' >
+     <div className='md:h-screen w-full h-full ' >
      <div id="contact" className="py-12 bg-gray-500 min-h-screen flex flex-col items-center  bg-gradient-to-br from-gray-900 via-gray-800 to-gray-700">
       <h2 className="text-3xl font-bold mb-6 text-center animate-fadeInDown">Contact Me</h2>
       <form

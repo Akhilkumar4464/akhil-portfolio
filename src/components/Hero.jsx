@@ -3,7 +3,7 @@
  function Hero() {
 return (
     <section
-        className="md:h-screen w-full h-full md:w-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-700"
+        className="min-h-screen w-full  mt-20 md:mt-9 bg-gradient-to-br from-gray-900 via-gray-800 to-gray-700"
     >
         <div className="flex flex-col justify-center items-center h-full">
             <div className="relative group mb-6">

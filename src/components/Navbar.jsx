@@ -14,7 +14,7 @@ const Navbar = () => {
     const handleToggle = () => setActive(!active);
 
     return (
-        <nav className="bg-gray-900 md:w-screen text-white px-6 py-4 flex items-center justify-between relative shadow-lg">
+        <nav className="bg-gray-900 md:max-w-screen text-white px-6 py-4 flex items-center justify-between relative shadow-lg">
             <Link to="/" className="text-2xl font-bold tracking-wide">
                 Akhil
             </Link>
