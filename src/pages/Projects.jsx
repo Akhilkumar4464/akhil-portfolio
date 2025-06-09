@@ -3,7 +3,7 @@ import ProjectCard from "../components/ProjectCard";
 
 function Projects() {
   return (
-    <div className="md:h-screen w-full h-full  bg-gradient-to-br  from-gray-900  via-gray-800  to-gray-700">
+    <div  className="md:h-screen w-full h-full  bg-gradient-to-br  from-gray-900  via-gray-800  to-gray-700">
       <div className="flex flex-col text-center items-center justify-center  mb-6 p-5 ">
         <h1 className="  mt-3 text-4xl font-bold text-gray-950">
           {" "}

@@ -6,7 +6,7 @@ function Hero() {
     const navigate = useNavigate()
     return (
         <section
-            className="min-h-screen w-full mt-20 md:mt-9 bg-gradient-to-br from-gray-900 via-gray-800 to-gray-700"
+            className="min-h-screen w-full mt-52 md:mt-9 "
         >
             <div className="flex flex-col justify-center items-center h-full animate-fade-in-up">
                 <div className="relative group mb-6 animate-float">
