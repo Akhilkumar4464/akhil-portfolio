@@ -32,7 +32,7 @@ function Hero() {
                     onClick={() => navigate("about")}
                     className="group mt-8 relative h-12 overflow-hidden rounded-md bg-blue-500 px-6 text-neutral-700 transition shadow-lg animate-glow"
                 >
-                    <span className="relative z-10">know more  </span>
+                    <span className="relative z-10"> About me   </span>
                     <div className="absolute inset-0 h-full w-0 bg-white/20 transition-[width] group-hover:w-full"></div>
                 </button>
                 <style>
